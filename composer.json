@@ -1,0 +1,13 @@
+{
+  "name": "uifort/bamburgh-ui-kit-free",
+  "description": "Bamburgh is a FREE Bootstrap 4 UI Kit that is perfect for building highly customised presentation websites and application dashboards.",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "UiFort",
+      "email": "support@uifort.com"
+    }
+  ],
+  "require": {}
+}
