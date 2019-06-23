@@ -18,7 +18,7 @@
   ![version](https://img.shields.io/badge/version-1.0.0-blue.svg) 
   [![Status](https://img.shields.io/badge/status-active-success.svg)]() 
   [![GitHub Issues open](https://img.shields.io/github/issues/uifort/bamburgh-ui-kit-free.svg)](https://github.com/uifort/bamburgh-ui-kit-free/issues)
-  [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/uifort/bamburgh-ui-kit-free.svg?maxAge=2592000)](https://github.com/creativetimofficial/material-kit-react/issues?q=is%3Aissue+is%3Aclosed) 
+  [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/uifort/bamburgh-ui-kit-free.svg?maxAge=2592000)](https://github.com/uifort/bamburgh-ui-kit-free/issues?q=is%3Aissue+is%3Aclosed) 
   [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/uifort/bamburgh-ui-kit-free.svg)](https://github.com/uifort/bamburgh-ui-kit-free/pulls)
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
