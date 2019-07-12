@@ -9,7 +9,7 @@
     <a href="https://twitter.com/intent/tweet?url=https://uifort.com/free-ui-kits/bamburgh-ui-kit-free.html&text=Bamburgh%20is%20a%20FREE%20Bootstrap%204%20UI%20Kit%20that%20is%20perfect%20for%20building%20highly%20customised%20presentation%20websites%20and%20application%20dashboards.">
         <img src="https://img.shields.io/twitter/url/http/shields.io.svg?style=social" />
     </a>
-    <a href="https://twitter.com/designrevision">
+    <a href="https://twitter.com/uifort1">
         <img src="https://img.shields.io/twitter/follow/uifort1.svg?style=social&label=Follow" />
     </a>
 </h1>
@@ -35,7 +35,7 @@
 
 ### Versions
 
-Bamburgh UI Kit will be soon available for React, Vue, Angular.
+Bamburgh UI Kit FREE
 
 ---
 
@@ -76,7 +76,7 @@ You can contact us either via our contact page ([UiFort Contact](https://uifort.
 
 We use GitHub Issues as the official bug tracker for all our products. Here are some advices for anyone who wants to report an issue:
 
-1. Make sure that you are using the latest version of this product. To do that you could check the [CHANGELOG](../CHANGELOG.md).
+1. Make sure that you are using the latest version of this product. To do that you could check the [CHANGELOG](./CHANGELOG.md).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 
@@ -88,7 +88,7 @@ Stay in touch with the UiFort team to find out when we release new articles, UI 
 
 We send out discount coupons from time to time to our subscribers. 
 
-Twitter: <https://twitter.com/UiFort>
+Twitter: <https://twitter.com/uifort1>
 
 Facebook: <https://www.facebook.com/UiFort>
 
